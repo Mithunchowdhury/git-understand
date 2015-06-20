@@ -1,0 +1,6 @@
+C:\Users\mithun\Documents\Visual Studio 2013\Projects\JqueryApplication\JqueryApplication\bin\JqueryApplication.dll.config
+C:\Users\mithun\Documents\Visual Studio 2013\Projects\JqueryApplication\JqueryApplication\bin\JqueryApplication.dll
+C:\Users\mithun\Documents\Visual Studio 2013\Projects\JqueryApplication\JqueryApplication\bin\JqueryApplication.pdb
+C:\Users\mithun\Documents\Visual Studio 2013\Projects\JqueryApplication\JqueryApplication\obj\Debug\JqueryApplication.csprojResolveAssemblyReference.cache
+C:\Users\mithun\Documents\Visual Studio 2013\Projects\JqueryApplication\JqueryApplication\obj\Debug\JqueryApplication.dll
+C:\Users\mithun\Documents\Visual Studio 2013\Projects\JqueryApplication\JqueryApplication\obj\Debug\JqueryApplication.pdb
